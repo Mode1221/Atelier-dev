@@ -61,3 +61,6 @@ pilot 이 인터뷰 직후 **한 번** 이 표로 PROJECT.md "디자인 도구 �
 | impeccable `onboard` | `../../launch/references/landing-copy.md` 헤드라인·첫 행동 |
 | brandkit | `brand-assets.md` 규격으로 Claude 가 SVG 아이콘·OG 를 직접 만들고 PNG 로 캡처 |
 | playwright-mcp | Playwright 스크립트 (이미 기본) |
+
+## 7. UI 라이브러리 (CSS 틀·컴포넌트·효과·차트 …)
+스킬·MCP 와 별개로, 화면을 만들 때 쓸 라이브러리는 D0-1 에서 분야별로 고른다 → `design-libraries.md`. 선택 결과는 PROJECT.md "## UI 라이브러리" 절이고, 이 표(도구 계획)처럼 이후 단계는 그 절만 읽는다. shadcn/ui 를 고르면 shadcn MCP, Figma 디자인이 있으면 Figma MCP 를 권한다(이 표의 playwright-mcp 와 같은 선택 사항).
